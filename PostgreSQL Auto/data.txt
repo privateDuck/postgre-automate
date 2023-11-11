@@ -1,0 +1,10 @@
+host:127.0.0.1          # host ip (default: 127.0.0.1)
+port:5432               # port (default: 5432)
+user:postgres           # user (default: postgres)
+password:123            # password
+database:example1       # name of the database
+table: example_table    # name of the table
+
+# examples
+column_name1:1007,945,1201,458 # column data type: integer
+column_name2:S001,S002,S003,S004 # column data type: char()
